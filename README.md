@@ -3,14 +3,15 @@ This is a simple Python application that allows users to convert PNG images to J
 
 ## Requirements
 Before running the application, make sure you have the following installed:
-
-Python (3.x recommended)
-Pillow library (pip install Pillow)
+`Python (3.x recommended)`
+`Pillow library
+```
+pip install Pillow
+```
 Usage
-
 Clone or download this repository to your local machine.
 Open a terminal or command prompt and navigate to the project directory.
-Run the Python script png_to_jpeg_converter.py.
+Run the Python script `png_to_jpeg_converter.py`.
 
 ## Instructions
 Upon running the script, a GUI window will appear.
